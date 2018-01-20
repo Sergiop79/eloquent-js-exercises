@@ -10,5 +10,5 @@ Write a loop that makes seven calls to console.log to output the following trian
 */
 
 for (var i = 1; i <= 7; i++) {
-    console.log('#'.repeat(i));
+  console.log('#'.repeat(i))
 }
